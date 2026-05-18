@@ -1,11 +1,4 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  README de perfil — Rebecca Menezes                         ║ -->
-<!-- ║  Para usar: cole este arquivo como README.md no repositório ║ -->
-<!-- ║  com o mesmo nome do seu usuário do GitHub.                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ░░░ BANNER / CABEÇALHO ░░░ -->
-<!-- 💡 Troque a URL abaixo por um banner personalizado seu (ex: feito no Canva ou Figma) -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rebecca%20Menezes&fontSize=52&fontColor=FFD6E0&fontAlignY=38&desc=developer%20%7C%20designer%20%7C%20pixel%20dreamer%20✦&descSize=16&descAlignY=58&descColor=C9B8FF&animation=fadeIn" width="100%" />
