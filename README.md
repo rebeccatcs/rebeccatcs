@@ -9,7 +9,7 @@
 <!-- 💡 Substitua o src pela URL da sua imagem hospedada (ex: no seu próprio repositório ou imgur) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/assets/pixel-girl.png"
-       alt="pixel girl with headphones"
+       alt="girl_headphones"
        width="130px"
        style="image-rendering: pixelated;" />
 </div>
