@@ -52,9 +52,13 @@
 
 ###
 
-<p align="left">
-  “The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves.” — Ada Lovelace
-</p>
+<blockquote>
+  <p>
+    <em>“The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves.”</em>
+    <br>
+    <em>— Ada Lovelace</em>
+  </p>
+</blockquote>
 
 ###
 
