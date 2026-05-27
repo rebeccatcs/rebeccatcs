@@ -76,20 +76,11 @@
 ###
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph.svg"
-    />
-    <img
-      alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph.svg"
-    />
-  </picture>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=cd4957"
+    alt="divider"
+  />
 </div>
 
 ###
