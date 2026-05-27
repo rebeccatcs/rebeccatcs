@@ -107,9 +107,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bijubas/bijubas/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-##  Contribution Graph
+##  
 
 <div align="center">
+
+<h3>Contribution Graph</h3>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bijubas&bg_color=0d0d0d&color=ff1100&line=ff1100&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=7b0009&title_color=ff1100)](https://github.com/bijubas)
 
