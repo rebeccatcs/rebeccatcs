@@ -28,7 +28,7 @@
 <div align="center">
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api?username=rebeccatcs&show_icons=true&hide_border=true&title_color=cd4957&text_color=e8ddd8&icon_color=f8dc73&bg_color=160027"
+    src="https://github-readme-stats.vercel.app/api?username=rebeccatcs&show_icons=true&theme=omni&hide_border=true"
     alt="GitHub stats"
   />
   <img
