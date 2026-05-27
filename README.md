@@ -36,17 +36,8 @@
 ###
 
 <div align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatcs&layout=compact&theme=omni&hide_border=true"
-    alt="Top Languages"
-  />
-
-  <img
-    height="150"
-    src="https://streak-stats.demolab.com?user=rebeccatcs&theme=omni&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub streak"
-  />
+  <img src="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rebeccatcs&locale=en&mode=weekly&theme=omni&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
 </div>
 
 ###
