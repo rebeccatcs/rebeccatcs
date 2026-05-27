@@ -36,31 +36,19 @@
 ###
 
 <div align="center">
-  <h3 style="color:#cd4957;">Statistics</h3>
+  <h3>Statistics</h3>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img
-          height="150em"
-          src="https://streak-stats.demolab.com?user=rebeccatcs&hide_border=true&background=160027&sideNums=e8ddd8&sideLabels=dcae9f&ring=cd4957&fire=f8dc73&currStreakNum=f8dc73&currStreakLabel=e8ddd8&dates=e8ddd8&stroke=743142"
-          alt="GitHub streak"
-        />
-      </td>
-      <td align="center">
-        <img
-          height="150em"
-          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebeccatcs&layout=compact&langs_count=7&hide_border=true&bg_color=160027&text_color=e8ddd8&title_color=cd4957"
-          alt="Top languages"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+  <img
+    height="150em"
+    src="https://streak-stats.demolab.com?user=rebeccatcs&theme=omni&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub streak"
+  />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rebeccatcs&locale=en&mode=weekly&theme=omni&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img
+    height="150em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatcs&layout=compact&langs_count=7&theme=omni&hide_border=true"
+    alt="Top languages"
+  />
 </div>
 
 ###
