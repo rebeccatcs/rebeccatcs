@@ -110,6 +110,16 @@
 ##  
 
 <div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=cd4957"
+    alt="divider"
+  />
+</div>
+
+###
+
+<div align="center">
 
 <h3>Contribution Graph</h3>
 
