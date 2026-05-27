@@ -28,8 +28,8 @@
 <div align="center">
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api?username=rebeccatcs&show_icons=true&theme=omni&hide_border=true&cache_seconds=1800"
-    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatcs&layout=compact&theme=omni&hide_border=true"
+    alt="Top Languages"
   />
 
   <img
