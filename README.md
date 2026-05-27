@@ -44,15 +44,6 @@
     alt="GitHub streak"
   />
 
-
-<div align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatcs&layout=compact&theme=omni&hide_border=true&count_private=true"
-    alt="Top Languages"
-  />
-</div>
-
 </div>
 
 ###
