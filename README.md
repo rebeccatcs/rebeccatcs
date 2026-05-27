@@ -6,7 +6,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&duration=4000&pause=900&color=CD4957&background=00000000&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Rebecca+Menezes.;I+study+Information+Systems+at+UNIT.;Be+welcome!+:)"
+    src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=28&duration=4000&pause=900&color=CD4957&background=00000000&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Rebecca+Menezes.;I+study+Information+Systems+at+UNIT.;Be+welcome!+:)"
     alt="Typing SVG"
   />
 </div>
@@ -123,7 +123,7 @@
 
 <h3>Contribution Graph</h3>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rebeccatcs&bg_color=0d0d0d&color=ff1100&line=ff1100&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=7b0009&title_color=ff1100)](https://github.com/rebeccatcs)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rebeccatcs&bg_color=191622&color=e1dbe8&line=ff79c6&point=f8dc73&area=true&area_color=ff79c6&hide_border=true&title_color=ff79c6)](https://github.com/rebeccatcs)
 
 </div>
 
