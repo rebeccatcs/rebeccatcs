@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https://i.imgflip.com/asvasi.gif" alt="Rebecca banner gif" />
+  <img height="500" src="https://i.imgflip.com/asvasi.gif" alt="Rebecca banner gif" />
 </div>
 
 <div align="center">
