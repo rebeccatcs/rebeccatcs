@@ -28,9 +28,10 @@
 <div align="center">
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api?username=rebeccatcs&show_icons=true&theme=omni&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=rebeccatcs&show_icons=true&theme=omni&hide_border=true&cache_seconds=1800"
     alt="GitHub stats"
   />
+
   <img
     height="150"
     src="https://streak-stats.demolab.com?user=rebeccatcs&theme=omni&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D"
@@ -74,20 +75,22 @@
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph.svg"
-  />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/rebeccatcs/rebeccatcs/output/pacman-contribution-graph.svg"
+    />
+  </picture>
+</div>
 
 ###
 
