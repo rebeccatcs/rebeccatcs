@@ -44,10 +44,22 @@
     alt="GitHub streak"
   />
 
+
   <img
-    height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatcs&layout=compact&langs_count=7&theme=omni&hide_border=true"
-    alt="Top languages"
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatcs&layout=compact&theme=omni&hide_border=true"
+    alt="Top Languages"
+  />
+
+</div>
+
+###
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=cd4957"
+    alt="divider"
   />
 </div>
 
@@ -65,16 +77,6 @@
   <img src="https://img.shields.io/static/v1?message=GIT&logo=git&label=&color=160027&logoColor=white&labelColor=dcae9f&style=for-the-badge" height="25" alt="git logo" />
   <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=160027&logoColor=white&labelColor=dcae9f&style=for-the-badge" height="25" alt="github logo" />
   <img src="https://img.shields.io/static/v1?message=FIGMA&logo=figma&label=&color=160027&logoColor=white&labelColor=dcae9f&style=for-the-badge" height="25" alt="figma logo" />
-</div>
-
-###
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=cd4957"
-    alt="divider"
-  />
 </div>
 
 ###
