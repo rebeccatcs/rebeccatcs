@@ -52,10 +52,6 @@
 
 ###
 
-<h4 align="left">Information Systems Student at UNIT</h4>
-
-###
-
 <p align="left">
   “The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves.” — Ada Lovelace
 </p>
