@@ -90,7 +90,7 @@ I am currently deepening my knowledge of Java and SQL, applying this knowledge t
   <br><br>
 I also have experience with HTML, CSS, JavaScript and Git, and I am currently exploring the field of design!
 
-<br clear="both">
+<br clear="left" />
 
 <div align="center">
   <img
