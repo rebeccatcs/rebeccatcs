@@ -86,9 +86,9 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/asvdy5.gif" alt="Rebecca pixel gif" />
 
-I am currently deepening my knowledge of Java and SQL, applying this knowledge to real-world projects through web development.
+I am currently deepening my knowledge of **Java and SQL**, applying this knowledge to real-world projects through web development.
   <br><br>
-I also have experience with HTML, CSS, JavaScript and Git, and I am currently exploring the field of design!
+I also have experience with **HTML, CSS, JavaScript and Git**, and I am currently exploring the **Design** field!
 
 <br clear="left" />
 
