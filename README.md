@@ -1,7 +1,5 @@
-<h2 align="left">Welcome</h2>
-
 <div align="center">
-  <img height="550" src="https://i.imgflip.com/asvasi.gif" alt="Rebecca banner gif" />
+  <img height="600" src="https://i.imgflip.com/asvasi.gif" alt="Rebecca banner gif" />
 </div>
 
 <div align="center">
